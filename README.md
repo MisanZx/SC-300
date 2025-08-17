@@ -21,12 +21,19 @@ My plan is to go through each section and make sure I understand how to do a spe
 First Home page when you log into Entra Admin Center
 <img width="1850" height="707" alt="image" src="https://github.com/user-attachments/assets/7a98f283-1d87-48a6-ac1e-a906a2455b6c" />
 
+
 ## Manage rules for dynamic membership groups in Microsoft Entra ID
 They can only be:
 - user-based
 - device-based
 > [!Note]
 > - Max of 15,000 dynamic membership groups in a single tenant.
+
+<img width="688" height="544" alt="image" src="https://github.com/user-attachments/assets/1c834cc3-5395-46f8-9956-5a8b3f898869" />
+
+- In Entra ID
+- Expand the Entra ID blade
+- Click on Groups then new groups
 
 > [!Tip]
 > - When attriutes of a user or a device changes, the system rechecks the all rules for the dynamic membership groups within the director. You cannot manually add or rember a member of a dynamic membership group.
@@ -35,6 +42,7 @@ They can only be:
 > - You can only create dynamic membership groups for one or the other, but you cannot create a rule for both.
 > - You cannnot reference user attributes of the device owner. Device membership can only refrence itself.
 
+
 ### License Requirements
 You require on of the following licences:
 - Microsoft Entra ID P1
@@ -42,6 +50,7 @@ You require on of the following licences:
 
 > [!Tip]
 > - Licenses are only required once for the users, not the devices.
+
 
 ### Rule builder in the Azure portal
 MS Entra ID gives you a rule builder to make it easier to create your dynamic grouping.
