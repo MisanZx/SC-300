@@ -29,7 +29,7 @@ They can only be:
 > [!Note]
 > - Max of 15,000 dynamic membership groups in a single tenant.
 
-<img width="688" height="544" alt="image" src="https://github.com/user-attachments/assets/1c834cc3-5395-46f8-9956-5a8b3f898869" />
+![EntraNewDynamicGroups](Images/EntraNewDynamicGroups.png)
 
 - In Entra ID
 - Expand the Entra ID blade
@@ -56,6 +56,6 @@ You require on of the following licences:
 MS Entra ID gives you a rule builder to make it easier to create your dynamic grouping.
 - Supports up tp 5 expressions
 - If it does not support the rule, use the custom rule by adding an expression.
-<img width="839" height="487" alt="image" src="https://github.com/user-attachments/assets/609a8d04-853d-4e49-893d-7b40ff4c90f7" />
+![EntraNewDynamicGroupsRules](Images/EntraNewDynamicGroupsRules.png)
 
 For more information about Dynamic membership groups please go here: https://learn.microsoft.com/en-us/entra/identity/users/groups-dynamic-membership
