@@ -13,7 +13,7 @@ Please note at the time of the documentation I am writing the content may have c
 As of 2025, the most recent changes are Azure AD is now known as Entra ID, if you see any documentation that references this, please be aware they do change the naming from time to time.
 
 # How Do I Learn?
-Get an account, its free to sign up as a 30day free trial and after that, make sure you have set it to not renew which you can still go in to see the blades and follow along with the learning content.
+Get an account, its free to sign up as a 30 days free trial and after that, make sure you have set it to not renew which you can still go in to see the blades and follow along with the learning content.
 My plan is to go through each section and make sure I understand how to do a specific function and document how to do it.
 
 # MS Entra ID (formerly known as Azure AD)
