@@ -6,8 +6,8 @@ Role: Security Engineer
 Please note at the time of the documentation I am writing the content may have changed, data may have moved so please refer to the official documentation within Microsoft to see the lastest changes. If this study guide has been helpful, please do show your support and follow me or if you are very generous to donate to kofi page: https://Ko-fi.com/misanzx Thank you
 
 # Useful First Starting Links
-The study guide can be found here: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300
-MS Learning: https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification
+- [Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300)
+- [MS Learning](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 
 # Other Notes
 As of 2025, the most recent changes are Azure AD is now known as Entra ID, if you see any documentation that references this, please be aware they do change the naming from time to time.
