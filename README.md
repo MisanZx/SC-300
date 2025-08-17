@@ -2,7 +2,7 @@
 Microsoft Certified: Identity and Access Administrator Associate
 Role: Security Engineer
 
-# Intro
+# Introduction
 Please note at the time of the documentation I am writing the content may have changed, data may have moved so please refer to the official documentation within Microsoft to see the lastest changes. If this study guide has been helpful, please do show your support and follow me or if you are very generous to donate to kofi page: https://Ko-fi.com/misanzx Thank you
 
 # Useful First Starting Links
@@ -21,3 +21,32 @@ My plan is to go through each section and make sure I understand how to do a spe
 First Home page when you log into Entra Admin Center
 <img width="1850" height="707" alt="image" src="https://github.com/user-attachments/assets/7a98f283-1d87-48a6-ac1e-a906a2455b6c" />
 
+## Manage rules for dynamic membership groups in Microsoft Entra ID
+They can only be:
+- user-based
+- device-based
+> [!Note]
+> - Max of 15,000 dynamic membership groups in a single tenant.
+
+> [!Tip]
+> - When attriutes of a user or a device changes, the system rechecks the all rules for the dynamic membership groups within the director. You cannot manually add or rember a member of a dynamic membership group.
+
+> [!Warning]
+> - You can only create dynamic membership groups for one or the other, but you cannot create a rule for both.
+> - You cannnot reference user attributes of the device owner. Device membership can only refrence itself.
+
+### License Requirements
+You require on of the following licences:
+- Microsoft Entra ID P1
+- Intune for Education License
+
+> [!Tip]
+> - Licenses are only required once for the users, not the devices.
+
+### Rule builder in the Azure portal
+MS Entra ID gives you a rule builder to make it easier to create your dynamic grouping.
+- Supports up tp 5 expressions
+- If it does not support the rule, use the custom rule by adding an expression.
+<img width="839" height="487" alt="image" src="https://github.com/user-attachments/assets/609a8d04-853d-4e49-893d-7b40ff4c90f7" />
+
+For more information about Dynamic membership groups please go here: https://learn.microsoft.com/en-us/entra/identity/users/groups-dynamic-membership
