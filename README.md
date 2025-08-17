@@ -19,7 +19,7 @@ My plan is to go through each section and make sure I understand how to do a spe
 # MS Entra ID (formerly known as Azure AD)
 
 First Home page when you log into Entra Admin Center
-<img width="1850" height="707" alt="image" src="https://github.com/user-attachments/assets/7a98f283-1d87-48a6-ac1e-a906a2455b6c" />
+![EntraIDHome](Images/EntraIDHome.png)
 
 
 ## Manage rules for dynamic membership groups in Microsoft Entra ID
