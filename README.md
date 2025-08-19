@@ -66,6 +66,7 @@ MS Entra Permissions Management is a Cloud Infrastructure Entitlement (CIEM) Sol
 - Microsoft Azure
 - Amazon Web Services (AWS)
 - Google Cloud Platform (GCP)
+![EntraPermissionsManagement](Images/EntraPermissionsManagement.png)
 
 ### Activites within the portal
 You can create,view activity alert triggers.
