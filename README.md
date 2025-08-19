@@ -74,3 +74,4 @@ You can create,view activity alert triggers.
 ## Microsoft Entra Built-in roles
 Roles naming changes from time to time, so please refer to this page for the latest updates.
 https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference
+
