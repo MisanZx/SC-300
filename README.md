@@ -59,3 +59,17 @@ MS Entra ID gives you a rule builder to make it easier to create your dynamic gr
 ![EntraNewDynamicGroupsRules](Images/EntraNewDynamicGroupsRules.png)
 
 For more information about Dynamic membership groups please go here: https://learn.microsoft.com/en-us/entra/identity/users/groups-dynamic-membership
+
+
+## Permissions Management
+MS Entra Permissions Management is a Cloud Infrastructure Entitlement (CIEM) Solution designed to help provide a comprohensive visability and control over permissions across mutlicloud environments.
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+
+### Activites within the portal
+You can create,view activity alert triggers.
+
+## Microsoft Entra Built-in roles
+Roles naming changes from time to time, so please refer to this page for the latest updates.
+https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference
