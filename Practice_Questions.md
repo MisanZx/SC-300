@@ -4,9 +4,10 @@
 Q. When using MS Entra ID:
 Requirements - Deny specified domains under the collaborations settings.
 - You can do this by switching it from deny to allow.
+- Switching it to the most restrictive setting.
 
 > [!Tip]
 > This does discard the existing policy for it to be live.
 
-- Switching it to the most restrictive setting.
-This area is focused on the B2C settings within MS Entra ID
+MS Entra admin Center > Entra ID > External 
+    Within there you can change the External colaboration settings to suite your use case.
