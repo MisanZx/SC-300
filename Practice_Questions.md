@@ -12,6 +12,7 @@ A.
 > This does discard the existing policy for it to be live.
 
 MS Entra admin Center > Entra ID > External 
-    
+- [Link to MS Entra Page](https://entra.microsoft.com/?l=en.en-us#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted)
+
 Within there you can change the External colaboration settings to suite your use case.
 
