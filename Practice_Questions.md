@@ -1,5 +1,5 @@
-# Some Practice Questions that might help in real senarios and some explaining on my theory.
-
+# Practice Questions
+The practice questions come from a few sources where I learn that cycle all the time so by next time the new updates of the course has updated this content *may not be the extactly the same places, however the main concepts are there. Thanks
 
 Q. When using MS Entra ID:
 Requirements - Deny specified domains under the collaborations settings.
