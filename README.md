@@ -105,3 +105,20 @@ Some information as part of the risk includes:
 - IP address
 
 To assist with this, it is recommened to setup risk-based Conditional Access policies to prevent similar attacks and to lower the risk or address any gaps in coverage.
+
+### How to Setup MFA within Entra ID?
+- Entra ID
+- ID Protection
+- Policies
+Create the new policy
+
+> [!Tip]
+> - To speed up on creation have a look at templates on your requirements and test within Report-Only mode and with a few users first before pushing to live.
+> - I would also recommend excluding breakglass accounts so that you do not get locked out from them.
+
+![EntraConditionalAccessPolicyMFA](Images/EntraConditionalAccessPolicyMFA.png)
+
+Change the settings to your requirements.
+
+![EntraConditionalAccessPolicyMFASettings](Images/EntraConditionalAccessPolicyMFA2.png)
+
