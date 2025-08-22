@@ -75,3 +75,33 @@ You can create,view activity alert triggers.
 Roles naming changes from time to time, so please refer to this page for the latest updates.
 https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference
 
+## Configuring MS Entra Multifactor Settings (MFA)
+The report suspicous activity replaces the Block/unblock users, Fraud alert and Notification legacy features.
+
+![EntraReportSuspiciousActivity](Images/EntraReportSuspiciousActivity.png)
+
+### How to investigate?
+With a MS P2  or Entra Suite license, go to:
+- Entra ID
+- User ID Protection
+
+There you can navigte to the .CSV/.JSON report for processing.
+
+### Why is a user at risk?
+- They have one or more risky sign-ins.
+They have more risks linked to thier account, for example a leaked credential.
+
+Within the MS Entra, under Risky Activities, you can investigate the users report and action them accordingly.
+
+The Risk history tab shows the evenders that led to a user withint he last 90 days.
+
+It is generally recommended to lower the risk with an admin remediation action such as resetting a password or dismissing the risk if a false positive.
+
+Some information as part of the risk includes:
+- Timestamp
+- Application
+- Device
+- Location
+- IP address
+
+To assist with this, it is recommened to setup risk-based Conditional Access policies to prevent similar attacks and to lower the risk or address any gaps in coverage.
