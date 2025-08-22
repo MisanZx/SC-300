@@ -93,7 +93,7 @@ They have more risks linked to thier account, for example a leaked credential.
 
 Within the MS Entra, under Risky Activities, you can investigate the users report and action them accordingly.
 
-The Risk history tab shows the evenders that led to a user withint he last 90 days.
+The Risk history tab shows the events that led to a user withint he last 90 days.
 
 It is generally recommended to lower the risk with an admin remediation action such as resetting a password or dismissing the risk if a false positive.
 
